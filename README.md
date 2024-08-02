@@ -16,4 +16,9 @@ Enter the location (city, state, or country) into the input field.
 View the current weather information, including temperature and location.
 Observe the dynamic background image change based on the temperature.
 
+![Screenshot_2-8-2024_154447_localhost](https://github.com/user-attachments/assets/ea76fb35-9e90-482b-b967-6373e2cac79f)
+
+![Screenshot_2-8-2024_154557_localhost](https://github.com/user-attachments/assets/506c64fd-2002-4a35-90b9-e7e3052ebb9c)
+
+
 This project is licensed under the MIT License. See the LICENSE file for details.
